@@ -8,8 +8,8 @@
 
 ### **Hands-On**
 
-* Build a complex template using advanced intrinsic functions and conditional logic
-* Use mappings and outputs to pass data between stacks
+* [Build a complex template using advanced intrinsic functions and conditional logic](./handson/module01/01-COMPLEX-TEMPLATE.md)
+* [Use mappings and outputs to pass data between stacks](./handson/module01/02-MAPPING-AND-OUTPUT.md)
 
 ### **Practical Use Cases**
 
