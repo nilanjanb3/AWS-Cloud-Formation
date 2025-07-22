@@ -23,14 +23,14 @@
 
 ### **Concepts**
 
-* Nested stacks, StackSets, and cross-stack references
-* Template modularization using S3, YAML anchors, and macros
-* DRY (Don’t Repeat Yourself) with reusable modules
+* [Nested stacks, StackSets, and cross-stack references](./concepts/module02/01-NESTED-SET-CROSS.md)
+* [Template modularization using S3, YAML anchors, and macros](./concepts/module02/02-TEMPLATE-MODULARIZATION.md)
+* [DRY (Don’t Repeat Yourself) with reusable modules](./concepts/module02/03-DRY.md)
 
 ### **Hands-On**
 
-* Refactor a monolithic template into multiple nested stacks
-* Use S3 to manage and version shared template modules
+* [Refactor a monolithic template into multiple nested stacks](./handson/module02/01-REFRACTOR.md)
+* [Use S3 to manage and version shared template modules](./handson/module02/02-STACK-VESIONING.md)
 
 ### **Practical Use Cases**
 
