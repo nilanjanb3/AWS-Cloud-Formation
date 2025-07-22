@@ -43,14 +43,14 @@
 
 ### **Concepts**
 
-* CI/CD patterns for CloudFormation (Blue/Green, Canary)
-* Version control, template testing (cfn-lint, taskcat), and review workflows
-* Automated rollback and drift detection
+* [CI/CD patterns for CloudFormation (Blue/Green, Canary)](./concepts/module03/01-CICD-PATTERNS.md)
+* [Version control, template testing (cfn-lint, taskcat), and review workflows](./concepts/module03/02-CERSIONING-TEST.md)
+* [Automated rollback and drift detection](./concepts/module03/03-DRIFT-DETECTION-AND-ROLLBACK.md)
 
 ### **Hands-On**
 
-* Set up a GitHub Actions or CodePipeline flow to lint, validate, and deploy templates
-* Simulate and detect configuration drift
+* [Set up a GitHub Actions or CodePipeline flow to lint, validate, and deploy templates](./handson/module03/01-CICD.md)
+* [Simulate and detect configuration drift](./handson/module03/02-DRIFT.md)
 
 ### **Practical Use Cases**
 
