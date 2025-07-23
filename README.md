@@ -63,14 +63,14 @@
 
 ### **Concepts**
 
-* Managing advanced AWS resources (EKS, ECS, Lambda, ALB/NLB, etc.)
-* Lambda-backed custom resources: When to use and how to implement
-* Integration with AWS Marketplace resources
+* [Managing advanced AWS resources (EKS, ECS, Lambda, ALB/NLB, etc.)](./concepts/module04/01-MANAGING-ADV-RESOURCES.md)
+* [Lambda-backed custom resources: When to use and how to implement](./concepts/module04/02-CUSTOM-RESOURCE.md)
+* [Integration with AWS Marketplace resources](./concepts/module04/03-MARKETPLACE.md)
 
 ### **Hands-On**
 
-* Write a template to deploy EKS or ECS with supporting resources (e.g., IAM, Security Groups)
-* Create a Lambda-backed custom resource to automate a non-native AWS operation
+* [Write a template to deploy EKS or ECS with supporting resources (e.g., IAM, Security Groups)](./handson/module04/01-EKS-DEMO.md)
+* [Create a Lambda-backed custom resource to automate a non-native AWS operation](./handson/module04/02-LAMBDA-BASED-CUSTOM-RESOURCE.md)
 
 ### **Practical Use Cases**
 
