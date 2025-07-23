@@ -44,7 +44,7 @@
 ### **Concepts**
 
 * [CI/CD patterns for CloudFormation (Blue/Green, Canary)](./concepts/module03/01-CICD-PATTERNS.md)
-* [Version control, template testing (cfn-lint, taskcat), and review workflows](./concepts/module03/02-CERSIONING-TEST.md)
+* [Version control, template testing (cfn-lint, taskcat), and review workflows](./concepts/module03/02-VERSIONING-TEST.md)
 * [Automated rollback and drift detection](./concepts/module03/03-DRIFT-DETECTION-AND-ROLLBACK.md)
 
 ### **Hands-On**
