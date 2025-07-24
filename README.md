@@ -83,14 +83,14 @@
 
 ### **Concepts**
 
-* IAM policy generation and least-privilege patterns
-* Stack policies, Service Control Policies (SCP), resource-level controls
-* Tagging enforcement, cost allocation, compliance audits
+* [IAM policy generation and least-privilege patterns](./concepts/module05/01-IAM-POLICY-GENERATION.md)
+* [Stack policies, Service Control Policies (SCP), resource-level controls](./concepts/module05/02-STACK-POLICIES.md)
+* [Tagging enforcement, cost allocation, compliance audits](./concepts/module05/03-TAGGING-ENFORCEMENT.md)
 
 ### **Hands-On**
 
-* Implement IAM with scoped-down policies via CloudFormation
-* Set up stack policies to protect critical resources
+* [Implement IAM with scoped-down policies via CloudFormation](./handson/module05/01-IAM-POLICIES.md)
+* [Set up stack policies to protect critical resources](./handson/module05/02-STACK-POLICIES.md)
 
 ### **Practical Use Cases**
 
