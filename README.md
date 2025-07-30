@@ -163,9 +163,9 @@
 
 ### **Concepts**
 
-* Stack events, SNS/EventBridge for notifications
-* Logging stack operations (CloudTrail, Config)
-* Debugging failed stacks (events, logs, resource status)
+* [Stack events, SNS/EventBridge for notifications](https://repost.aws/knowledge-center/cloudformation-rollback-email)
+* [Logging stack operations (CloudTrail, Config)](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-api-logging-cloudtrail.html)
+* [Debugging failed stacks (events, logs, resource status)](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/troubleshooting.html)
 
 ### **Hands-On**
 
