@@ -103,9 +103,9 @@
 
 ### **Concepts**
 
-* Change sets: Previewing and approving stack updates
-* Stack update behaviors, rollbacks, update policies
-* Deletion policies, resource protection
+* [Change sets: Previewing and approving stack updates](./concepts/module06/01-CHANGE-SET.md)
+* [Stack update behaviors, rollbacks, update policies](./concepts/module06/02-STACK-UPDATE-ROLLBACK-UPDATE.md)
+* [Deletion policies, resource protection](./concepts/module06/03-DELETE-POLICIES.md)
 
 ### **Hands-On**
 
@@ -123,9 +123,9 @@
 
 ### **Concepts**
 
-* Using SSM Parameter Store and Secrets Manager
-* Dynamic references for secure value injection at deploy time
-* Rotating secrets and integrating with application deployments
+* [Using SSM Parameter Store and Secrets Manager](./concepts/module07/01-SSM-SECRETS-MANAGER.md)
+* [Dynamic references for secure value injection at deploy time](./concepts/module07/02-DYNAMIC-REFERENCE.md)
+* [Rotating secrets and integrating with application deployments](./concepts/module07/03-ROTATING-SECRETS.md)
 
 ### **Hands-On**
 
@@ -143,9 +143,9 @@
 
 ### **Concepts**
 
-* AWS::Include, macros, and custom pre-processors
-* AWS::Serverless transform for serverless applications
-* Writing and deploying custom macros (e.g., for tagging, VPCs)
+* [AWS::Include, macros, and custom pre-processors](./concepts/module08/01-AWS-INCLUDE-MACROS.md)
+* [AWS::Serverless transform for serverless applications](./concepts/module08/02-AWS-SERVERLESS.md)
+* [Writing and deploying custom macros (e.g., for tagging, VPCs)](./concepts/module08/03-CUSTOM-MACRO.md)
 
 ### **Hands-On**
 
